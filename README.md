@@ -26,7 +26,9 @@ The dashboard answers key business questions:
 | Data_Dictionary.md | Field definitions |
 | DAX_Measures.md | All DAX calculations |
 | Insights_Report.md | Business insights |
-| Dashboard_Design.md | UI/UX design notes |  
+| Dashboard_Design.md | UI/UX design notes | 
+
+---
 
 # 📈 Insights Summary
 - Revenue is driven primarily by repeat customers.
@@ -35,6 +37,8 @@ The dashboard answers key business questions:
 - AOV remains stable, indicating consistent purchasing behaviour.
 - Order volume spikes around the middle of each month.
 
+---
+
 # 🛠 Tools Used
 - Power BI
 - Power Query
@@ -42,7 +46,13 @@ The dashboard answers key business questions:
 - Excel
 - GitHub
 
+---
+
+
 # 📌 How to Use This Project
-- Download the .pbix file
-- Open in Power BI Desktop
+- Download the .pbix file   (https://app.powerbi.com/groups/me/reports/291e8e17-ed78-4d40-af01-3df4cce8bb32?redirectedFromSignup=1&ScenarioId=Signup&redirectedWaitSimple=1&experience=power-bi)
+- Open in Power BI Desktop  
+  <img width="1504" height="849" alt="image" src="https://github.com/user-attachments/assets/aa90c289-9ffe-4e4c-a634-57f889279a22" />  
 - Explore the dashboard
+
+- 
