@@ -51,8 +51,7 @@ The dashboard answers key business questions:
 
 # 📌 How to Use This Project
 - Download the .pbix file   (https://app.powerbi.com/groups/me/reports/291e8e17-ed78-4d40-af01-3df4cce8bb32?redirectedFromSignup=1&ScenarioId=Signup&redirectedWaitSimple=1&experience=power-bi)
+- Explore the dashboard  
 - Open in Power BI Desktop  
   <img width="1504" height="849" alt="image" src="https://github.com/user-attachments/assets/aa90c289-9ffe-4e4c-a634-57f889279a22" />  
-- Explore the dashboard
 
-- 
